@@ -1,4 +1,4 @@
-# Fck-FB-algorithms
+# Fuck-FB-algorithms
 ![](https://i.ibb.co/8bd3vJq/photo-2022-07-20-04-19-57.jpg)
 ### Live use: 
 https://t.me/fuckinstaalgbot
