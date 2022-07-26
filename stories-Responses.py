@@ -16,7 +16,7 @@ def sample_responses(input_text):
         text = text.replace('f', 'ƒ')
         text = text.replace('g', 'ɠ')
         text = text.replace('h', 'ん')
-        text = text.replace('i', 'ا')
+        text = text.replace('i', 'Ꭵ')
         text = text.replace('j', 'よ')
         text = text.replace('k', 'ƙ')
         text = text.replace('l', 'ℓ')
