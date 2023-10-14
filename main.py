@@ -6,7 +6,7 @@ from webserver import keep_alive
 import os
 
 
-#pip install python-telegram-bot
+#pip install python-telegram-bot==13.15.0
 print("Bot Started")
 
 def start_command(update, context):
